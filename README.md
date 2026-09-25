@@ -6,9 +6,3 @@
 - 🌱 I'm building [D-raft](https://github.com/da-daken/D-raft), a Raft implementation with a K/V database
 - 💬 Ask me about **Flink, Distributed Systems, Raft, or AI Agents**
 - 📫 If you have suitable job opportunities, feel free to contact me: **dakengg@qq.com**
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="metrics.svg" alt="da-daken's GitHub metrics" />
-</div>

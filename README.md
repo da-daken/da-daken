@@ -5,12 +5,12 @@
 - 🔭 I'm currently contributing to [Apache Flink Agents](https://github.com/apache/flink-agents)
 - 🌱 I'm building [D-raft](https://github.com/da-daken/D-raft), a Raft implementation with a K/V database
 - 💬 Ask me about **Flink, Distributed Systems, Raft, or AI Agents**
+- 📫 If you have suitable job opportunities, feel free to contact me: **dakengg@qq.com**
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=da-daken&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-daken&layout=compact&theme=radical" />
+<div align="center">
+  <img src="https://stats.justsong.cn/api/github?username=da-daken&theme=radical" alt="da-daken's GitHub stats" />
 </div>
 
 ## 🔗 Connect with me

@@ -10,5 +10,5 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/github?username=da-daken&theme=radical" alt="da-daken's GitHub stats" />
+  <img src="metrics.svg" alt="da-daken's GitHub metrics" />
 </div>
